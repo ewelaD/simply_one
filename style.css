@@ -518,6 +518,9 @@ input[type="submit"]:hover {
         transform: scale(1,1);
     }
     /* section footer */
+    .footer .container {
+        padding-left: 0px;
+    }
     .footer [class^="col-"] {
         padding-right: 20px;
     }
